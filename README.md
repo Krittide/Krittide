@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 im Krittidet
+💻 Beginner Software Developer
+🐍 Learning Python
+💻 Building Terminal tools and games
 
-<!--
-**Krittide/Krittide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- MyTerminal - a custom terminal in python
+- Terminal RPG Game
+## 🛠️ Skills
+- Pythons
+- Git
+- Linux
+##📚 Currently Learning
+- Pythons programming
+- Git & Github
+- Linux basic
+##🎯 Future Goals
+- Become a Software Engineer
+- Learn System Engineering
+- Build my own operating system
+## 🛠️ Tools I Use
+- Python
+- Git
+- Linux
+- Visual Studio Code
